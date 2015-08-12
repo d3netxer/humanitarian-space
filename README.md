@@ -14,7 +14,17 @@ My mental map of humanitarian space and disaster response
 ###UN Global Pulse
 ####http://www.unglobalpulse.org/
 
+###GDELT
+####http://blog.gdeltproject.org/
+
 ##Response
 
 ###Mission 4636
 ####http://www.mission4636.org/
+
+##Government Institutions
+
+###United States Institute of Peace
+####The PeaceTech Lab
+####http://www.usip.org/programs/projects/the-peacetech-lab
+
