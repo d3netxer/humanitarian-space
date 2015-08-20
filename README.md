@@ -34,6 +34,7 @@ My mental map of humanitarian space and disaster response
 ####http://www.unisdr.org/
 
 ####Sendai Framework for Disaster Risk Reduction
+#####The Sendai Framework is a 15-year voluntary, non-binding agreement that maps out a broad, people-centred approach to disaster risk reduction, succeeding the Hyogo Framework for Action.
 #####http://www.unisdr.org/we/coordinate/hfa-post2015
 #####http://www.preventionweb.net/posthfa/
 
