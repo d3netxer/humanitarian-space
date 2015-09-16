@@ -54,3 +54,8 @@ common exercises and drills;
 ##HOT Activations
 ####Essentially there was a task on Zooniverse that used Planet Labs 5-meter resolution imagery to determine classifiable areas in Nepal. I think this could be a valuable input for HOT activations to help activators determine mapping gaps and plan mapping projects. 
 ####http://blog.zooniverse.org/2015/05/13/disaster-response-in-nepal-and-the-zooniverse/
+
+##Exercises
+
+###Angel Thunder: largest and most realistic joint service, multinational, interagency combat search and rescue exercise
+####http://aviationphotodigest.com/angel-thunder-2015-saving-lives/
