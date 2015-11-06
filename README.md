@@ -61,3 +61,8 @@ common exercises and drills;
 ####http://aviationphotodigest.com/angel-thunder-2015-saving-lives/
 
 http://internet-response-league.com/
+
+##NGOs
+
+###GeoHazards International
+####http://geohaz.org/home
