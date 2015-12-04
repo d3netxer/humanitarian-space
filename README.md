@@ -66,3 +66,8 @@ http://internet-response-league.com/
 
 ###GeoHazards International
 ####http://geohaz.org/home
+
+
+##Cities Alliance
+###http://www.citiesalliance.org/
+####PDF of book on [Managing Systems of Secondary Cities](http://www.citiesalliance.org/)
