@@ -74,3 +74,20 @@ http://internet-response-league.com/
 
 ##Citizen Science
 ###White House blog post: [Open Science and Innovation: Of the People, By the People, For the People](https://www.whitehouse.gov/blog/2015/09/09/open-science-and-innovation-people-people-people)
+
+##Verily
+###https://veri.ly/about
+
+##Drones and 3-D mapping
+
+###Blog post: 3-D Mapping in Nepal
+####http://irevolution.net/2015/11/04/crisis-mapping-nepal-aerial-robotics/
+
+###3-D Mapping Software
+
+####OpenDroneMap
+#####https://github.com/OpenDroneMap/OpenDroneMap
+
+####Pix4D
+#####https://pix4d.com/
+
