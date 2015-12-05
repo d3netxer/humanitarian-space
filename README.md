@@ -80,7 +80,7 @@ http://internet-response-league.com/
 
 ##MicroMappers
 ###https://micromappers.wordpress.com/
-###Crowdsourcing the Analysis of UAV Video Feeds for Disaster Response
+###Bringing together many types of information text, photo, video, imagery for volunteers to assess
 
 ##Drones and 3-D mapping
 
