@@ -82,6 +82,13 @@ http://internet-response-league.com/
 ###https://micromappers.wordpress.com/
 ###Bringing together many types of information text, photo, video, imagery for volunteers to assess
 
+###UAViators
+####http://uaviators.org/
+
+###AIDR (Artificial Intelligence for Disaster Response)
+####http://aidr.qcri.org/
+####AIDR (Artificial Intelligence for Disaster Response) is a free and open source software that automatically collects and classifies tweets that are posted during humanitarian crises.
+
 ##Drones and 3-D mapping
 
 ###Blog post: 3-D Mapping in Nepal
