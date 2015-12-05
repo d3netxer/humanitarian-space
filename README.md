@@ -78,6 +78,10 @@ http://internet-response-league.com/
 ##Verily
 ###https://veri.ly/about
 
+##MicroMappers
+###https://micromappers.wordpress.com/
+###Crowdsourcing the Analysis of UAV Video Feeds for Disaster Response
+
 ##Drones and 3-D mapping
 
 ###Blog post: 3-D Mapping in Nepal
