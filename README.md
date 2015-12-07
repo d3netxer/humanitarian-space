@@ -114,3 +114,5 @@ http://internet-response-league.com/
 
 ###Sustainable Development Goals
 ####https://sustainabledevelopment.un.org/post2015/summit
+
+####https://www.globalinnovationexchange.org/
