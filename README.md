@@ -116,3 +116,17 @@ http://internet-response-league.com/
 ####https://sustainabledevelopment.un.org/post2015/summit
 
 ####https://www.globalinnovationexchange.org/
+
+##Tracking Open Data
+
+###Open Data Census
+####http://census.okfn.org/
+####The Local Open Data Census to survey and compare the progress made by different cities and local areas in releasing Open Data. You can help by tracking down Open Data from a city or region where you live or that you’re interested in.
+
+###Global Open Data Index
+####http://index.okfn.org/
+####The Global Open Data Index was created to provide an up-to-date and reliable guide to the state of global open data for policy-makers, researchers, journalists, activists and citizens.
+
+####Mikel Maron's post on building the Global Goals Data Census
+####https://medium.com/@mikelmaron/let-s-build-the-global-goals-data-census-c38b0458c9a#.37cmjhgwc
+
