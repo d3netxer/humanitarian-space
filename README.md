@@ -135,3 +135,5 @@ http://internet-response-league.com/
 ####Mikel Maron's post on building the Global Goals Data Census
 ####https://medium.com/@mikelmaron/let-s-build-the-global-goals-data-census-c38b0458c9a#.37cmjhgwc
 
+###labor and jobs
+####http://www.talentbeyondboundaries.org/
