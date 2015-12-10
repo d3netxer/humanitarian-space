@@ -53,6 +53,11 @@ common exercises and drills;
 
 ##HOT Activations
 ####Essentially there was a task on Zooniverse that used Planet Labs 5-meter resolution imagery to determine classifiable areas in Nepal. I think this could be a valuable input for HOT activations to help activators determine mapping gaps and plan mapping projects. 
+##HOT partners
+
+###MapBox Engagement document
+####https://github.com/mapbox/mapping/wiki/Mapbox-engagement-in-HOT-Activations
+
 ####http://blog.zooniverse.org/2015/05/13/disaster-response-in-nepal-and-the-zooniverse/
 
 ##Exercises
