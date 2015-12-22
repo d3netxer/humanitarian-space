@@ -137,3 +137,7 @@ http://internet-response-league.com/
 
 ###labor and jobs
 ####http://www.talentbeyondboundaries.org/
+
+###3-D immersive video
+####https://www.google.com/get/cardboard/jump/
+####https://gopro.com/news/happy-sweet-sixteen-introducing-gopros-360-camera-array
