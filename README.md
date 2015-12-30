@@ -91,6 +91,9 @@ http://internet-response-league.com/
 ###https://micromappers.wordpress.com/
 ###Bringing together many types of information text, photo, video, imagery for volunteers to assess
 
+####Satellite Imagery SatSummit Primer
+####http://satsummit.github.io/landscape/#
+
 ###UAViators
 ####http://uaviators.org/
 
