@@ -144,3 +144,7 @@ http://internet-response-league.com/
 ###3-D immersive video
 ####https://www.google.com/get/cardboard/jump/
 ####https://gopro.com/news/happy-sweet-sixteen-introducing-gopros-360-camera-array
+
+##GRDRR
+####Good Infographic, shows loss in damages per year
+####https://www.gfdrr.org/sites/default/files/publication/Investing-in-Resilience_1.pdf 
