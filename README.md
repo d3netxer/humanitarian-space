@@ -22,6 +22,9 @@ My mental map of humanitarian space and disaster response
 ###Mission 4636
 ####http://www.mission4636.org/
 
+###USGS's Hazards Data Distribution System (HDDS)
+###http://www.un-spider.org/links-and-resources/data-sources/dsotm-hdds
+
 ##US Government Institutions
 
 ###United States Institute of Peace
