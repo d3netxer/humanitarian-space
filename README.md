@@ -63,6 +63,10 @@ common exercises and drills;
 
 ####http://blog.zooniverse.org/2015/05/13/disaster-response-in-nepal-and-the-zooniverse/
 
+###Youth Mappers
+####http://www.gis.ttu.edu/usaid/youthmappers/
+####http://www.gis.ttu.edu/usaid/mappersu/
+
 ##Exercises
 
 ###Angel Thunder: largest and most realistic joint service, multinational, interagency combat search and rescue exercise
