@@ -158,3 +158,7 @@ http://internet-response-league.com/
 
 ###IRDR
 ####Integrated Research on Disaster Risk (IRDR) is a decade-long research programme co-sponsored by the International Council for Science (ICSU), the International Social Science Council (ISSC), and the United Nations International Strategy for Disaster Reduction (UNISDR). It is a global, multi-disciplinary approach to dealing with the challenges brought by natural disasters, mitigating their impacts, and improving related policy-making mechanisms.
+
+###Rare Earth Minerals
+####from open data day DC 2016
+####https://opendatadaydc.hackpad.com/Critical-Minerals-Communicating-the-Value-of-Rare-Earth-Elements-49AhptGEqcD
