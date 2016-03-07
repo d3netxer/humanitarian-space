@@ -162,3 +162,6 @@ http://internet-response-league.com/
 ###Rare Earth Minerals
 ####from open data day DC 2016
 ####https://opendatadaydc.hackpad.com/Critical-Minerals-Communicating-the-Value-of-Rare-Earth-Elements-49AhptGEqcD
+
+###Volcano Mapping
+####http://volcanomapping.github.io/geoweek-2015/
