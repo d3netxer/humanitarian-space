@@ -175,3 +175,11 @@ http://internet-response-league.com/
 
 ###Volcano Mapping
 ####http://volcanomapping.github.io/geoweek-2015/
+
+### Flood Modeling
+
+### Global Flood Modeling
+
+#### https://www.gfdrr.org/sites/default/files/publication/Global%20Flood%20Modelling-Statistical%20Estimation%20of%20Peak-Flow%20Magnitude.pdf
+
+
