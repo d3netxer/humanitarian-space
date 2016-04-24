@@ -159,9 +159,12 @@ http://internet-response-league.com/
 ####https://www.google.com/get/cardboard/jump/
 ####https://gopro.com/news/happy-sweet-sixteen-introducing-gopros-360-camera-array
 
-##GRDRR
+##GFDRR
 ####Good Infographic, shows loss in damages per year
 ####https://www.gfdrr.org/sites/default/files/publication/Investing-in-Resilience_1.pdf 
+
+####Publications
+####https://www.gfdrr.org/publications
 
 ###IRDR
 ####Integrated Research on Disaster Risk (IRDR) is a decade-long research programme co-sponsored by the International Council for Science (ICSU), the International Social Science Council (ISSC), and the United Nations International Strategy for Disaster Reduction (UNISDR). It is a global, multi-disciplinary approach to dealing with the challenges brought by natural disasters, mitigating their impacts, and improving related policy-making mechanisms.
