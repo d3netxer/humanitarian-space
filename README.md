@@ -182,4 +182,20 @@ http://internet-response-league.com/
 
 #### https://www.gfdrr.org/sites/default/files/publication/Global%20Flood%20Modelling-Statistical%20Estimation%20of%20Peak-Flow%20Magnitude.pdf
 
+## Joint Initiatives
+
+### US Gov and Military
+https://www.usaid.gov/partnership-opportunities/us-government-and-military
+
+### Feed The Future
+https://feedthefuture.gov/about
+
+### US Global Health Programs
+
+### Global Climate Change Initiative
+https://www.usaid.gov/climate
+
+### PEPFAR
+http://www.pepfar.gov/
+
 
