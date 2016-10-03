@@ -198,4 +198,8 @@ https://www.usaid.gov/climate
 ### PEPFAR
 http://www.pepfar.gov/
 
+## Data Portals
+
+### Mountain GeoPortal (Nepal)
+http://geoportal.icimod.org/
 
