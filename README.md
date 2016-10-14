@@ -203,3 +203,9 @@ http://www.pepfar.gov/
 ### Mountain GeoPortal (Nepal)
 http://geoportal.icimod.org/
 
+## Events
+
+### Global Disaster Relief Summit
+#### International Day for Disaster Reduction, 13 October
+http://disaster-relief.aidforum.org/
+
