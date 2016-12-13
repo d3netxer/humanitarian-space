@@ -209,3 +209,9 @@ http://geoportal.icimod.org/
 #### International Day for Disaster Reduction, 13 October
 http://disaster-relief.aidforum.org/
 
+### ACAPS
+https://www.acaps.org/
+Independent Humanitarian Needs Assessments 
+
+### ACLED
+Armed Conflict Location & Event Data 
