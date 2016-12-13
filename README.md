@@ -216,3 +216,7 @@ Independent Humanitarian Needs Assessments
 ### ACLED
 http://www.acleddata.com/
 Armed Conflict Location & Event Data 
+
+### Harvard Humanitarian Initiative The Signal Program
+http://hhi.harvard.edu/research/signal#intro
+The program works to advance the safe, ethical, and effective use of information technologies by communities of practice during humanitarian and human rights emergencies.
