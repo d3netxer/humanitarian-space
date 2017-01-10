@@ -222,3 +222,12 @@ Armed Conflict Location & Event Data
 ### Harvard Humanitarian Initiative The Signal Program
 http://hhi.harvard.edu/research/signal#intro
 The program works to advance the safe, ethical, and effective use of information technologies by communities of practice during humanitarian and human rights emergencies.
+
+### What 3 Words
+http://www.theatlantic.com/technology/archive/2016/06/the-most-interesting-story-about-postal-addresses-you-have-ever-read/487160/
+http://stevecoast.com/2016/03/25/why-i-like-what3words/
+https://blog.ldodds.com/2016/06/14/what-3-words-jog-on-mate/
+http://blog.telemapics.com/?p=589
+http://knowwhereconsulting.co.uk/blog/location-grid-not-an-address/
+
+
