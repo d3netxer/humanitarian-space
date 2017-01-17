@@ -232,3 +232,7 @@ http://knowwhereconsulting.co.uk/blog/location-grid-not-an-address/
 
 # HXL, Humanitarian Exchange Language
 http://hxlstandard.org/
+## HXL User Cases
+https://medium.com/@Simon_B_Johnson/how-hxl-is-being-used-at-the-british-red-cross-281c0b632df6#.y6tzbelbx
+
+**what HXL could use is a mobile app
