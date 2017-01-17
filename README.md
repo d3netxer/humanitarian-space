@@ -230,4 +230,5 @@ https://blog.ldodds.com/2016/06/14/what-3-words-jog-on-mate/
 http://blog.telemapics.com/?p=589
 http://knowwhereconsulting.co.uk/blog/location-grid-not-an-address/
 
-
+# HXL, Humanitarian Exchange Language
+http://hxlstandard.org/
