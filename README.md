@@ -243,3 +243,6 @@ https://www.scribd.com/document/336603381/2016-OCHA-Functional-Review
 ### C4ADS
 http://c4ads.org/about-us/
 C4ADS is a nonprofit organization dedicated to providing data-driven analysis and evidence-based reporting on global conflict and transnational security issues.
+
+## EdEx Humanitarian Response to Conflict and Disaster Course
+https://www.edx.org/course/humanitarian-response-conflict-disaster-harvardx-ph558x#
