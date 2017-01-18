@@ -239,3 +239,7 @@ https://medium.com/@Simon_B_Johnson/how-hxl-is-being-used-at-the-british-red-cro
 
 ### OCHA functional review 2015
 https://www.scribd.com/document/336603381/2016-OCHA-Functional-Review
+
+### C4ADS
+http://c4ads.org/about-us/
+C4ADS is a nonprofit organization dedicated to providing data-driven analysis and evidence-based reporting on global conflict and transnational security issues.
