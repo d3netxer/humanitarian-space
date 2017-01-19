@@ -246,3 +246,6 @@ C4ADS is a nonprofit organization dedicated to providing data-driven analysis an
 
 ## EdEx Humanitarian Response to Conflict and Disaster Course
 https://www.edx.org/course/humanitarian-response-conflict-disaster-harvardx-ph558x#
+
+## Afghanistan IMMAP GeoNode
+http://asdc.immap.org/
