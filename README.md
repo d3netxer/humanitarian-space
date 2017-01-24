@@ -249,3 +249,6 @@ https://www.edx.org/course/humanitarian-response-conflict-disaster-harvardx-ph55
 
 ## Afghanistan IMMAP GeoNode
 http://asdc.immap.org/
+
+### OpenDRI Overview
+https://www.gfdrr.org/sites/default/files/publication/OpenDRI_Overview_2013.pdf
