@@ -255,3 +255,6 @@ https://www.gfdrr.org/sites/default/files/publication/OpenDRI_Overview_2013.pdf
 
 ### Innovation UNHCR
 http://innovation.unhcr.org
+
+## https://www.nanseninitiative.org/
+inter-governmental process to address the challenges of cross-border displacement in the context of disasters and the effects of climate change.
