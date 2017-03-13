@@ -223,6 +223,9 @@ Armed Conflict Location & Event Data
 http://hhi.harvard.edu/research/signal#intro
 The program works to advance the safe, ethical, and effective use of information technologies by communities of practice during humanitarian and human rights emergencies.
 
+#### Harvard Humanitarian Initiative Curricular Innovation Program
+http://hhi.harvard.edu/education/curricular-innovation#intro
+
 ### What 3 Words
 http://www.theatlantic.com/technology/archive/2016/06/the-most-interesting-story-about-postal-addresses-you-have-ever-read/487160/
 http://stevecoast.com/2016/03/25/why-i-like-what3words/
