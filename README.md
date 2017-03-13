@@ -264,3 +264,7 @@ http://innovation.unhcr.org
 
 ## https://www.nanseninitiative.org/
 inter-governmental process to address the challenges of cross-border displacement in the context of disasters and the effects of climate change.
+
+### Path
+Global Health International NGO
+http://www.path.org/about/index.php
