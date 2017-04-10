@@ -272,3 +272,13 @@ http://www.path.org/about/index.php
 ## Conferences
 The Global Health & Innovation Conference (#GHIC) 
 http://www.uniteforsight.org/conference/
+
+### Black Sky
+can be used for alerts
+https://www.blacksky.com/
+
+### IDMC: Internal Displacement Monitoring Centre
+http://www.internal-displacement.org/
+
+### UNOSAT's Flood Finder
+http://meetingorganizer.copernicus.org/EGU2016/EGU2016-8770.pdf?platform=hootsuite
