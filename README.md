@@ -294,3 +294,8 @@ The Global Climate Observing System (GCOS) was established in 1992 to ensure tha
 ## GEO
 The intergovernmental Group on Earth Observations (GEO) is leading a worldwide effort to build a Global Earth Observation System of Systems (GEOSS).
 https://www.earthobservations.org/index.php
+
+## EMDAT (EM-DAT)
+The main objective of the database is to serve the purposes of humanitarian action at national and international levels. The initiative aims to rationalise decision making for disaster preparedness, as well as provide an objective base for vulnerability assessment and priority setting.
+http://www.emdat.be/
+* maybe can plot disasters over time
