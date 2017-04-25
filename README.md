@@ -282,3 +282,8 @@ http://www.internal-displacement.org/
 
 ### UNOSAT's Flood Finder
 http://meetingorganizer.copernicus.org/EGU2016/EGU2016-8770.pdf?platform=hootsuite
+
+## CEOS
+Committee on Earth Observation Satellites
+Mission: CEOS ensures international coordination of civil space-based Earth observation programs and promotes exchange of data to optimize societal benefit and inform decision making for securing a prosperous and sustainable future for humankind.T
+http://ceos.org 
