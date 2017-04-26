@@ -299,3 +299,6 @@ https://www.earthobservations.org/index.php
 The main objective of the database is to serve the purposes of humanitarian action at national and international levels. The initiative aims to rationalise decision making for disaster preparedness, as well as provide an objective base for vulnerability assessment and priority setting.
 http://www.emdat.be/
 * maybe can plot disasters over time
+
+## Malaria
+http://www.disarm.io
