@@ -302,3 +302,6 @@ http://www.emdat.be/
 
 ## Malaria
 http://www.disarm.io
+
+## The Centre for Humanitarian Data
+https://centre.humdata.org/
