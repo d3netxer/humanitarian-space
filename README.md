@@ -331,3 +331,6 @@ iEARN-USA is a global education organization that provides various pathways for 
 ### MapAction
 The capacity to deploy a fully trained and equipped humanitarian mapping and information management team anywhere across the globe, often within hours.
 https://mapaction.org
+
+## Homeland Infrastructure Foundation-Level Data (HIFLD)
+https://hifld-geoplatform.opendata.arcgis.com/
