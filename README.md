@@ -334,3 +334,8 @@ https://mapaction.org
 
 ## Homeland Infrastructure Foundation-Level Data (HIFLD)
 https://hifld-geoplatform.opendata.arcgis.com/
+
+## Hurricane Harvey Response
+https://blog.mapbox.com/hurricane-harvey-recovery-and-relief-maps-e0688ef3a075
+
+
