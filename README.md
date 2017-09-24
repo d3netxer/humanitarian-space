@@ -344,5 +344,9 @@ http://news.mit.edu/2017/map-real-time-crowd-sourced-flood-reporting-hurricane-i
 ## GeoSpark Analytics (BlueGlass)
 geospark.io
 
+## MapStory Beta
+https://beta.mapstory.org/ 
 
+## FEMA Crowdsourcing Damage Assessment App
+http://imageryuploader.geoplatform.gov/DamageReview/
 
