@@ -352,3 +352,7 @@ http://imageryuploader.geoplatform.gov/DamageReview/
 
 ## U.S National Action Plan
 https://open.usa.gov/
+
+## Crowdsourced Fundraising
+https://www.classy.org
+their processing fees can be as low as 1% for some partnerships (All Hands volunteers)
