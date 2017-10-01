@@ -350,6 +350,9 @@ https://beta.mapstory.org/
 ## FEMA Crowdsourcing Damage Assessment App
 http://imageryuploader.geoplatform.gov/DamageReview/
 
+## Another Crowdsourced Damage Assessment tool is MapMill
+https://publiclab.org/wiki/mapmill
+
 ## U.S National Action Plan
 https://open.usa.gov/
 
