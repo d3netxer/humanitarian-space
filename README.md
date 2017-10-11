@@ -382,4 +382,7 @@ https://www.directrelief.org/
 ### Crowd Rescue HQ
 http://www.crowdrescuehq.org/
 
+## Field Data Collection
 
+### MagPi
+https://home.magpi.com/getting-started/
