@@ -368,6 +368,9 @@ http://www.frontlinesms.com/
 ### Texizen
 https://www.textizen.com/
 
+#### Unsure is IFRC TERA project is still active or not
+http://www.ifrc.org/en/what-we-do/beneficiary-communications/tera/
+
 ## Response
 
 ### Direct Relief
@@ -377,3 +380,5 @@ https://www.directrelief.org/
 
 ### Crowd Rescue HQ
 http://www.crowdrescuehq.org/
+
+
