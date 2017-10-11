@@ -386,3 +386,7 @@ http://www.crowdrescuehq.org/
 
 ### MagPi
 https://home.magpi.com/getting-started/
+
+#### Pic4carto 
+http://projets.pavie.info/pic4carto/index.html
+Description: There are plenty open street-level pictures on the web (Mapillary, Flickr, Wikimedia Commons...). All of them have their own viewer. This website offers a simple, efficient geolocated picture viewer in order to make collaborative mappers' life easier.
