@@ -370,6 +370,7 @@ https://www.textizen.com/
 
 #### Unsure is IFRC TERA project is still active or not
 http://www.ifrc.org/en/what-we-do/beneficiary-communications/tera/
+http://sm4good.com/2013/03/06/ifrc-aid-20/#.Wd4y6MiGNPY
 
 ## Response
 
