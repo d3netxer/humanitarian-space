@@ -393,3 +393,10 @@ Description: There are plenty open street-level pictures on the web (Mapillary, 
 
 ## Medic Mobil
 https://medicmobile.org/tools
+
+## Digital Democracy
+http://www.digital-democracy.org/
+Digital Democracy empowers marginalized communities to use technology to defend their rights
+### Mapeo
+Offline participatory mapping. (Digital Democracy project)
+http://www.digital-democracy.org/mapeo/
