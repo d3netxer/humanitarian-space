@@ -397,6 +397,10 @@ https://medicmobile.org/tools
 ## Digital Democracy
 http://www.digital-democracy.org/
 Digital Democracy empowers marginalized communities to use technology to defend their rights
+
 ### Mapeo
 Offline participatory mapping. (Digital Democracy project)
 http://www.digital-democracy.org/mapeo/
+
+### MCC Data Collaboratives for Local Impact (DCLI), dlab, Tanzania
+https://www.mcc.gov/blog/entry/blog-120116-dcli-model-capacity-building 
