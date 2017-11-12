@@ -404,3 +404,6 @@ http://www.digital-democracy.org/mapeo/
 
 ### MCC Data Collaboratives for Local Impact (DCLI), dlab, Tanzania
 https://www.mcc.gov/blog/entry/blog-120116-dcli-model-capacity-building 
+
+## Pre-fab houses
+https://flipboard.com/@flipboard/-7-inspiring-solutions-for-disaster-reli/f-dac534903e%2Fdwell.com
