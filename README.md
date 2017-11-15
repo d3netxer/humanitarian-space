@@ -410,3 +410,7 @@ https://flipboard.com/@flipboard/-7-inspiring-solutions-for-disaster-reli/f-dac5
 
  ## Global Food Security-Support Analysis Data @ 30-m (GFSAD30) Project
  https://www.usgs.gov/news/new-map-worldwide-croplands-supports-food-and-water-security
+
+## STAR-TIDES Technology demonstration
+http://star-tides.net/events/tides-annual-technology-demonstration
+The demo will host a live demonstration of innovative technologies to improve disaster assistance and development. 
