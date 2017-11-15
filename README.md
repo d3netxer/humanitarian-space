@@ -413,4 +413,8 @@ https://flipboard.com/@flipboard/-7-inspiring-solutions-for-disaster-reli/f-dac5
 
 ## STAR-TIDES Technology demonstration
 http://star-tides.net/events/tides-annual-technology-demonstration
-The demo will host a live demonstration of innovative technologies to improve disaster assistance and development. 
+The demo will host a live demonstration of innovative technologies to improve disaster assistance and development.
+
+## OpenReblock from Stamen
+Looks like an online Minimum Spanning tool to plan better networks (transportation, utilities) to provide services to settlements
+https://hi.stamen.com/bringing-essential-infrastructure-and-services-to-urban-slums-worldwide-16126b4387f5
