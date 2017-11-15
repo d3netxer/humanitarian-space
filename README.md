@@ -407,3 +407,6 @@ https://www.mcc.gov/blog/entry/blog-120116-dcli-model-capacity-building
 
 ## Pre-fab houses
 https://flipboard.com/@flipboard/-7-inspiring-solutions-for-disaster-reli/f-dac534903e%2Fdwell.com
+
+ ## Global Food Security-Support Analysis Data @ 30-m (GFSAD30) Project
+ https://www.usgs.gov/news/new-map-worldwide-croplands-supports-food-and-water-security
