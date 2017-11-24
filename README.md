@@ -418,3 +418,6 @@ The demo will host a live demonstration of innovative technologies to improve di
 ## OpenReblock from Stamen
 Looks like an online Minimum Spanning tool to plan better networks (transportation, utilities) to provide services to settlements
 https://hi.stamen.com/bringing-essential-infrastructure-and-services-to-urban-slums-worldwide-16126b4387f5
+
+## Global Urban Footprint
+https://arxiv.org/pdf/1706.04862.pdf
