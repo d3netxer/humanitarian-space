@@ -421,3 +421,6 @@ https://hi.stamen.com/bringing-essential-infrastructure-and-services-to-urban-sl
 
 ## Global Urban Footprint
 https://arxiv.org/pdf/1706.04862.pdf
+
+## Humanitarian innovation Fund
+http://www.elrha.org/hif/home/
