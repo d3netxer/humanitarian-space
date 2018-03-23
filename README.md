@@ -425,7 +425,8 @@ https://arxiv.org/pdf/1706.04862.pdf
 ## WorldPop
 http://www.worldpop.org.uk/
 
-
+### Facebook announcement of Open Population Data Sets
+https://code.facebook.com/posts/596471193873876/open-population-datasets-and-open-challenges/
 
 ## Humanitarian innovation Fund
 http://www.elrha.org/hif/home/
