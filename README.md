@@ -432,7 +432,10 @@ https://code.facebook.com/posts/596471193873876/open-population-datasets-and-ope
 http://www.elrha.org/hif/home/
 
 ### The Humanitarian Genome Project
+The Humanitarian Genome 1.0 was designed as the first version of a free, digital, open source and globally accessible
+application allowing humanitarian workers to quickly access evaluation data to inform their decision making.
 I don't know what happened to this project, but the website is down. http://humanitariangenome.org/ 
 Here is the report http://www.elrha.org/map-location/humanitarian-genome-hg-generating-organizational-wisdom/. The Final Report is linked.
 Also here is a YouTube video of the Beta: https://www.youtube.com/watch?v=heZKt8rFi28 
+
 
