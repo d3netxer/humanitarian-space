@@ -438,4 +438,5 @@ I don't know what happened to this project, but the website is down. http://huma
 Here is the report http://www.elrha.org/map-location/humanitarian-genome-hg-generating-organizational-wisdom/. The Final Report is linked.
 Also here is a YouTube video of the Beta: https://www.youtube.com/watch?v=heZKt8rFi28 
 
-
+### PIN (Protection, Information, Management)
+http://pim.guide/ 
