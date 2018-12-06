@@ -440,3 +440,7 @@ Also here is a YouTube video of the Beta: https://www.youtube.com/watch?v=heZKt8
 
 ### PIN (Protection, Information, Management)
 http://pim.guide/ 
+
+### more about population datasets
+https://www.popgrid.org/compare-data
+http://www.grid3.org/
