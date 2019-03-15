@@ -425,6 +425,9 @@ https://arxiv.org/pdf/1706.04862.pdf
 ## WorldPop
 http://www.worldpop.org.uk/
 
+### High resolution global gridded data for use in population studies (for WorldPop)
+https://www.nature.com/articles/sdata20171
+
 ### Facebook announcement of Open Population Data Sets
 https://code.facebook.com/posts/596471193873876/open-population-datasets-and-open-challenges/
 
@@ -444,3 +447,5 @@ http://pim.guide/
 ### more about population datasets
 https://www.popgrid.org/compare-data
 http://www.grid3.org/
+
+
