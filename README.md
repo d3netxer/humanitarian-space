@@ -425,6 +425,9 @@ https://arxiv.org/pdf/1706.04862.pdf
 ## WorldPop
 http://www.worldpop.org.uk/
 
+## Compare Different Population Datasets (by CIESIN)
+https://www.popgrid.org/compare-data
+
 ### High resolution global gridded data for use in population studies (for WorldPop)
 https://www.nature.com/articles/sdata20171
 
