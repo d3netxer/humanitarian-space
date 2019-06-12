@@ -451,4 +451,8 @@ http://pim.guide/
 https://www.popgrid.org/compare-data
 http://www.grid3.org/
 
+### ResourceWatch (https://resourcewatch.org/)
+Many useful global datasets
 
+### FlowMinder (https://web.flowminder.org/)
+non-profit, works with cellphone/CDR (call data records) data
