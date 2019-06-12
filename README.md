@@ -456,3 +456,6 @@ Many useful global datasets
 
 ### FlowMinder (https://web.flowminder.org/)
 non-profit, works with cellphone/CDR (call data records) data
+
+## WRI: Towards a more Equal City (https://www.wri.org/wri-citiesforall/cities-all)
+The World Resources Report: Towards a More Equal City focuses on helping cities in rapidly urbanizing regions alter their development trajectories as demand for infrastructure and services grows. 
