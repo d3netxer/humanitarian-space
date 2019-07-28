@@ -462,3 +462,7 @@ The World Resources Report: Towards a More Equal City focuses on helping cities 
 
 ### The Pudding visualizations and the 3-D population map
 https://pudding.cool/2018/12/3d-cities-story/
+
+### Quadracci Sustainable Engineering Lab 
+The Quadracci Sustainable Engineering Lab at the School of Engineering (SEAS) and The Earth Institute, Columbia University uses engineering to help address development issues
+https://qsel.columbia.edu/
