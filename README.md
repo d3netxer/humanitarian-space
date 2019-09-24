@@ -466,3 +466,7 @@ https://pudding.cool/2018/12/3d-cities-story/
 ### Quadracci Sustainable Engineering Lab 
 The Quadracci Sustainable Engineering Lab at the School of Engineering (SEAS) and The Earth Institute, Columbia University uses engineering to help address development issues
 https://qsel.columbia.edu/
+
+## Mapping land rights
+Cadesta (https://cadasta.org/)
+https://www.reuters.com/article/us-asiapac-landrights-tech/hi-tech-mapping-has-good-intentions-for-land-rights-but-can-backfire-idUSKBN1W50L1
