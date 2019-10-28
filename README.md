@@ -470,3 +470,6 @@ https://qsel.columbia.edu/
 ## Mapping land rights
 Cadesta (https://cadasta.org/)
 https://www.reuters.com/article/us-asiapac-landrights-tech/hi-tech-mapping-has-good-intentions-for-land-rights-but-can-backfire-idUSKBN1W50L1
+
+### Flood risk data
+SSBN/Fathom data: https://www.fathom.global/methodology
