@@ -473,3 +473,6 @@ https://www.reuters.com/article/us-asiapac-landrights-tech/hi-tech-mapping-has-g
 
 ### Flood risk data
 SSBN/Fathom data: https://www.fathom.global/methodology
+
+## Agriculture
+Atleas AI (https://www.atlasai.co/) delivers intelligence on agriculture, infrastructure, and economic trends across the developing world. The Rockefeller Foundation Established Atlas AI.
