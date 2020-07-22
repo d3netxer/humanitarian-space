@@ -476,3 +476,6 @@ SSBN/Fathom data: https://www.fathom.global/methodology
 
 ## Agriculture
 Atleas AI (https://www.atlasai.co/) delivers intelligence on agriculture, infrastructure, and economic trends across the developing world. The Rockefeller Foundation Established Atlas AI.
+
+## Mapping Afghanistan using OSM (Walker)
+https://www.worldbank.org/en/results/2020/01/17/how-to-get-there-afghanistan-as-simple-as-putting-there-on-the-map
