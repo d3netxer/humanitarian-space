@@ -479,3 +479,6 @@ Atleas AI (https://www.atlasai.co/) delivers intelligence on agriculture, infras
 
 ## Mapping Afghanistan using OSM (Walker)
 https://www.worldbank.org/en/results/2020/01/17/how-to-get-there-afghanistan-as-simple-as-putting-there-on-the-map
+
+## predicting wildfires
+https://www.cnet.com/features/mapping-a-wildfires-next-move-is-getting-easier-thanks-to-computers/
