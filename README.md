@@ -482,3 +482,7 @@ https://www.worldbank.org/en/results/2020/01/17/how-to-get-there-afghanistan-as-
 
 ## predicting wildfires
 https://www.cnet.com/features/mapping-a-wildfires-next-move-is-getting-easier-thanks-to-computers/
+
+## Emergency Events Database
+https://www.emdat.be/
+EM-DAT was developed in 1988 and contains core data on the occurrence and effects of over 24,000 mass disasters from around the world, from 1900 to the present day. EM-DAT is maintained by the Centre for Research on the Epidemiology of Disasters (CRED) at the Institute of Health and Society (IRSS), at UCLouvain.
