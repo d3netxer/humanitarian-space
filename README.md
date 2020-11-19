@@ -486,3 +486,7 @@ https://www.cnet.com/features/mapping-a-wildfires-next-move-is-getting-easier-th
 ## Emergency Events Database
 https://www.emdat.be/
 EM-DAT was developed in 1988 and contains core data on the occurrence and effects of over 24,000 mass disasters from around the world, from 1900 to the present day. EM-DAT is maintained by the Centre for Research on the Epidemiology of Disasters (CRED) at the Institute of Health and Society (IRSS), at UCLouvain.
+
+
+### Predictive analytics in humanitarian action: a preliminary mapping and analysis (K4D, June 2020)
+https://opendocs.ids.ac.uk/opendocs/bitstream/handle/20.500.12413/15455/EIR33_Humanitarian_Predictive_Analytics.pdf?sequence=1
