@@ -490,3 +490,6 @@ EM-DAT was developed in 1988 and contains core data on the occurrence and effect
 
 ### Predictive analytics in humanitarian action: a preliminary mapping and analysis (K4D, June 2020)
 https://opendocs.ids.ac.uk/opendocs/bitstream/handle/20.500.12413/15455/EIR33_Humanitarian_Predictive_Analytics.pdf?sequence=1
+
+## Google Flood Forecasting Initiative
+https://ai.googleblog.com/2020/09/the-technology-behind-our-recent.html
