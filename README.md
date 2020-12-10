@@ -493,3 +493,7 @@ https://opendocs.ids.ac.uk/opendocs/bitstream/handle/20.500.12413/15455/EIR33_Hu
 
 ## Google Flood Forecasting Initiative
 https://ai.googleblog.com/2020/09/the-technology-behind-our-recent.html
+
+### World Bank Living Standards Measurement Study
+https://www.worldbank.org/en/programs/lsms/initiatives/lsms-ISA
+The Living Standards Measurement Study - Integrated Surveys on Agriculture (LSMS-ISA) is a household survey project established with a grant from the Bill and Melinda Gates Foundation and implemented by the LSMS team.
