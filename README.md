@@ -497,3 +497,6 @@ https://ai.googleblog.com/2020/09/the-technology-behind-our-recent.html
 ### World Bank Living Standards Measurement Study
 https://www.worldbank.org/en/programs/lsms/initiatives/lsms-ISA
 The Living Standards Measurement Study - Integrated Surveys on Agriculture (LSMS-ISA) is a household survey project established with a grant from the Bill and Melinda Gates Foundation and implemented by the LSMS team.
+
+### UN Unite Maps initiative
+https://geoportal.dfs.un.org/arcgis/apps/sites/#/unitemaps
